@@ -1,0 +1,56 @@
+# Source files and development
+src/
+env/
+*.log
+*.tmp
+
+# Development files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Docker files
+docker-compose.yml
+Dockerfile
+
+# Git
+.git/
+.gitignore
+
+# Documentation (keep README.md)
+docs/
+*.md
+!README.md
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Test files
+test/
+tests/
+__tests__/
+*.test.js
+*.spec.js
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Build artifacts
+dist/
+build/
