@@ -1,0 +1,7 @@
+services:
+  app:
+    build: './src/binance-mcp-server/'
+    volumes:
+      - './src/binance-mcp-server/:/app/'
+    ports:
+      - '8080:8080'
