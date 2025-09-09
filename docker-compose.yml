@@ -1,5 +1,7 @@
 services:
+
   app:
+    image: 'tmvdl/binance-mcp-server'
     build: './src/binance-mcp-server/'
     volumes:
       - './src/binance-mcp-server/:/app/'
