@@ -1,5 +1,5 @@
 {
-  "name": "binance-mcp-server",
+  "name": "@tarsislimadev/binance-mcp-server",
   "version": "0.1.1",
   "description": "A robust Model Context Protocol (MCP) server implementation that enables AI agents to seamlessly interact with the Binance cryptocurrency exchange. This server provides a standardized interface for accessing real-time market data, executing trading operations, and managing cryptocurrency portfolios through AI-driven applications.",
   "main": "app.js",
