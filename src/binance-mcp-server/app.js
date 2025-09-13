@@ -12,8 +12,8 @@ class BinanceMCPServer {
   constructor() {
     this.server = new Server(
       {
-        name: pkg.name, // 'binance-mcp-server',
-        version: pkg.version, // '0.1.0',
+        name: pkg.name,
+        version: pkg.version
       },
       {
         capabilities: {
