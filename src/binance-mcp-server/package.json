@@ -1,6 +1,6 @@
 {
   "name": "@tarsislimadev/binance-mcp-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A robust Model Context Protocol (MCP) server implementation that enables AI agents to seamlessly interact with the Binance cryptocurrency exchange. This server provides a standardized interface for accessing real-time market data, executing trading operations, and managing cryptocurrency portfolios through AI-driven applications.",
   "main": "app.js",
   "scripts": {
@@ -37,5 +37,6 @@
   "bugs": {
     "url": "https://github.com/tarsislimadev/binance-mcp-server/issues"
   },
-  "homepage": "https://github.com/tarsislimadev/binance-mcp-server#readme"
+  "homepage": "https://github.com/tarsislimadev/binance-mcp-server#readme",
+  "npm": "https://www.npmjs.com/package/@tarsislimadev/binance-mcp-server"
 }
